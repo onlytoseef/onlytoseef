@@ -22,9 +22,9 @@
 
 - 📫 How to reach me **hi.devtoseef@gmail.com**
 
-- 📄 Know about my experiences of Programing [My Linkedin Account](https://www.linkedin.com/in/muhammad-haris-ahsan-825113249/)
+- 📄 Know about my experiences of Programing [My Linkedin Account](https://www.linkedin.com/in/devtoseef/)
 
-- ✌️ Visit my portfolio [here](https://muhammad-haris-ahsan.vercel.app/)
+
 
 <br />
 
